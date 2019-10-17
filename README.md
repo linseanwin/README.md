@@ -1,5 +1,9 @@
 # 06170140 林聖翔
 
+# 功課
+
+[quicksort](https://github.com/linseanwin/learning-note/tree/master/homework/quicksort)
+
 # 課堂筆記
 [week 1](https://github.com/linseanwin/learning-note/tree/master/week%201)
 
@@ -8,3 +12,5 @@
 [week 3](https://github.com/linseanwin/learning-note/tree/master/week3)
 
 [week 4](https://github.com/linseanwin/learning-note/tree/master/week4)
+
+[week 5](https://github.com/linseanwin/learning-note/blob/master/week5)
