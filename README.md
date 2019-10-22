@@ -1,5 +1,9 @@
 # 06170140 林聖翔
 
+# 季前暖身
+
+[code signal](https://github.com/linseanwin/learning-note/tree/master/codesignal)
+
 # 功課
 
 [quicksort](https://github.com/linseanwin/learning-note/tree/master/homework/quicksort)
