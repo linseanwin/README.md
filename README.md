@@ -8,6 +8,8 @@
 
 [quicksort](https://github.com/linseanwin/learning-note/tree/master/homework/quicksort)
 
+[hw2](https://github.com/linseanwin/learning-note/tree/master/homework/hw2)
+
 # 課堂筆記
 [week 1](https://github.com/linseanwin/learning-note/tree/master/week%201)
 
