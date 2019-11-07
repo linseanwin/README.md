@@ -14,3 +14,9 @@
 
 ![](https://github.com/linseanwin/learning-note/blob/master/images/S__53731335.jpg)
 
+## 參考資料:
+
+https://www.geeksforgeeks.org/heap-sort/
+
+https://www.youtube.com/watch?v=j-DqQcNPGbE
+
