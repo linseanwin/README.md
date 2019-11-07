@@ -1,6 +1,6 @@
 # 學習歷程:
 
-![](https://i.ytimg.com/vi/MtQL_ll5KhQ/maxresdefault.jpg)
+![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Merge-Sort-Tutorial.png)
 
 反覆試了class solution(object)後，一直無法定義heapify，出現錯誤訊息。
 
