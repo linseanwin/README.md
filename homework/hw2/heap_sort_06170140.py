@@ -27,4 +27,13 @@ def heap_sort(tree,n):
     for i in range(n-1,0,-1) :
         tree[0],tree[i] = tree[i],tree[0]
         heapify(tree,i,0)
+        
+       
+tree = [ 10,4, 1, 2, 3,6] 
+n = 6
+heap_sort(tree,n)
+i = int
+for i in range(n):
+    print (tree[i])    
+        
     
