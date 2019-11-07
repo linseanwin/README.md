@@ -10,6 +10,6 @@
 
 ## 參考資料:
 
-https://www.geeksforgeeks.org/heap-sort/
+https://www.c-programming-simple-steps.com/merge-sort.html
 
-https://www.youtube.com/watch?v=j-DqQcNPGbE
+https://www.youtube.com/watch?v=TzeBrDU-JaY
