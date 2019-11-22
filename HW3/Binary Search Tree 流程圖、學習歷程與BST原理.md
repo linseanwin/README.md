@@ -4,6 +4,8 @@
 
 # 流程圖:
 
+![](https://github.com/linseanwin/learning-note/blob/master/images/S__57090050.jpg)
+
 # BST原理:
 
 ## 參考資料:
