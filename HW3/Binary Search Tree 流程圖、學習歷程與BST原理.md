@@ -2,6 +2,12 @@
 
 ![](https://algorithmsandme.com/wp-content/uploads/2018/05/mirror-binary-search-tree.png)
 
+得知要做binary tree後 經由老師板書教學能明白部分
+
+但當轉換成binary search tree後 難度提升許多 
+
+我認為老師週二上課教學模式讓我較好理解程式運行邏輯，能大概知道每行程式碼的操作
+
 # 流程圖:
 
 ### insert
