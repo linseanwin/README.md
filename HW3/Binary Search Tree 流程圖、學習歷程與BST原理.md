@@ -4,7 +4,21 @@
 
 # 流程圖:
 
+### insert
+
 ![](https://github.com/linseanwin/learning-note/blob/master/images/S__57090050.jpg)
+
+### search
+
+![](https://github.com/linseanwin/learning-note/blob/master/images/S__57090052.jpg)
+
+### modify
+
+![](https://github.com/linseanwin/learning-note/blob/master/images/S__57090053.jpg)
+
+### delete
+
+![](https://github.com/linseanwin/learning-note/blob/master/images/S__57090054.jpg)
 
 # BST原理:
 
