@@ -30,7 +30,7 @@ class Solution(object):
     def modify(self, root, target, new_val):
         pass
       
-參考資料:https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
-        https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9
+#參考資料:https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
+        #https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9
         
-        AB班許多王牌高手
+        #AB班許多王牌高手
