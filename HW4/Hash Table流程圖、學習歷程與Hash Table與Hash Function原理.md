@@ -14,4 +14,11 @@ hash function中文稱雜湊函式，是將數字或字串輸入後輸出雜湊�
 
 ![](https://github.com/linseanwin/learning-note/blob/master/images/S__59498511.jpg)
 
+# 參考資料：
+
+https://kite.com/python/examples/2084/crypto-generate-a-new-md5-hash
+
+https://zh.wikipedia.org/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8
+
+http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html
 
