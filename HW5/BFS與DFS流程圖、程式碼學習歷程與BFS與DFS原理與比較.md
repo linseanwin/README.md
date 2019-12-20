@@ -4,7 +4,11 @@
 
 # BFS流程圖:
 
+![](https://github.com/linseanwin/learning-note/blob/master/images/S__61947910.jpg)
+
 # DFS流程圖:
+
+![](https://github.com/linseanwin/learning-note/blob/master/images/S__61947908.jpg)
 
 # BFS原理:
 
