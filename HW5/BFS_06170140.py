@@ -1,23 +1,31 @@
 from collections import defaultdict 
   
-# This class represents a directed graph 
-# using adjacency list representation 
-class Graph:
-    # Constructor 
-    def __init__(self): 
-        # default dictionary to store graph 
-        self.graph = defaultdict(list) 
 
-    # function to add an edge to graph 
+
+class Graph:
+    
+    def __init__(self): 
+        
+        self.graph = defaultdict(list) 
+        
+
+    
     def addEdge(self,u,v): 
         self.graph[u].append(v) 
   
-    # Function to print a BFS of graph 
+
     def BFS(self, s): 
-        """
-        :type s: int
-        :rtype: list
-        """
+        a = [] 
+        b = [s]   
+        a.append(s) 
+        while len(b) != 0: 
+            u = b.pop(0)  #
+            for n in self.graph[u]: 
+                if n not in a: 
+                    a.append(n) 
+                    b.append(n)    
+        return a
+      
     def DFS(self, s):
         """
         :type s: int
