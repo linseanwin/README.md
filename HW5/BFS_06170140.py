@@ -4,12 +4,9 @@ from collections import defaultdict
 
 class Graph:
     
-    def __init__(self): 
-        
+    def __init__(self):    
         self.graph = defaultdict(list) 
-        
-
-    
+            
     def addEdge(self,u,v): 
         self.graph[u].append(v) 
   
@@ -19,7 +16,7 @@ class Graph:
         b = [s]   
         a.append(s) 
         while len(b) != 0: 
-            u = b.pop(0)  #
+            u = b.pop(0)  
             for n in self.graph[u]: 
                 if n not in a: 
                     a.append(n) 
