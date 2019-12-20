@@ -32,7 +32,32 @@ Breadth-First Search(BFS)，廣度優先搜尋，是一個以Queue之搜尋方�
 
 # DFS原理:
 
-Depth-First Search(DFS)，深度優先搜尋，是一個以list之搜尋方法，
+Depth-First Search(DFS)，深度優先搜尋，是一個以stack之搜尋方法，
+
+一樣是先建立2個list，1個屬於暫存1個屬於結果，
+
+和bfs不一樣的是，以stack概念是後進先出，
+
+走訪完起點的aj list後，才能回來上一個點搜尋，
+
+重複動作直到結果list得到正確順序。
+
+# BFS和DFS比較:
+
+1.BFS占用記憶體比DFS多
+
+2.queue和stack概念不同
+
+3.若是點少用BFS好，點多則用DFS
+
+# 參考資料：
+
+https://alrightchiu.github.io/SecondRound/graph-breadth-first-searchbfsguang-du-you-xian-sou-xun.html
+
+https://www.youtube.com/watch?v=pcKY4hjDrxk
+
+
+
 
 
 
