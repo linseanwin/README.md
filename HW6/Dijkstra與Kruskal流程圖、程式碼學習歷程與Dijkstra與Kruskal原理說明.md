@@ -4,6 +4,8 @@
 
 # 流程圖:
 
+![](https://github.com/linseanwin/learning-note/blob/master/images/S__64069635.jpg)
+
 # dijkstra原理:
 
 # kruskal原理:
