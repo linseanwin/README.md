@@ -31,3 +31,7 @@
 所有的點不能形成一個三角形 類似圈圈概念 不能關起來
 
 # 參考資料：
+
+https://www.itread01.com/content/1543636264.html
+
+http://alrightchiu.github.io/SecondRound/minimum-spanning-treekruskals-algorithm.html
