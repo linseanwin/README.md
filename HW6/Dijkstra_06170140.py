@@ -37,8 +37,23 @@ class Graph():
                 return f
         return 
     
-     def Kruskal(self):
-            pass
+
+    def Kruskal(self):
+        a = [column for column in range(self.V)]
+        b = {}
+        c = sorted(self.dict)
+       
+        for i in c:
+            j = 0
+            s = 0
+            for j , s in self.dict[i]:
+                if a[j] !=a [s]:
+                    a = [a[j] if q == a[s] else q for q in a]
+                    b[str(j)+'-'+str(s)]=i
+                else:
+                    pass
+        
+        return b   
        
     
 #http://alrightchiu.github.io/SecondRound/minimum-spanning-treekruskals-algorithm.html
