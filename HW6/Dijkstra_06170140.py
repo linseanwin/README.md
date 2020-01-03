@@ -38,7 +38,8 @@ class Graph():
         return 
     
      def Kruskal(self):
-         pass 
+            pass
+       
     
 #http://alrightchiu.github.io/SecondRound/minimum-spanning-treekruskals-algorithm.html
 
