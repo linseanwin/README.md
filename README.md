@@ -4,11 +4,13 @@
 
 [code signal](https://github.com/linseanwin/learning-note/tree/master/codesignal)
 
+[Leetcode](https://github.com/linseanwin/learning-note/tree/master/Leetcode)
+
 # 功課
 
-[quicksort](https://github.com/linseanwin/learning-note/tree/master/homework/quicksort)
+[HW1](https://github.com/linseanwin/learning-note/tree/master/HW1)
 
-[HW2](https://github.com/linseanwin/learning-note/tree/master/hw2)
+[HW2](https://github.com/linseanwin/learning-note/tree/master/HW2)
 
 [HW3](https://github.com/linseanwin/learning-note/tree/master/HW3)
 
