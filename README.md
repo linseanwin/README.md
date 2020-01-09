@@ -12,6 +12,12 @@
 
 [HW3](https://github.com/linseanwin/learning-note/tree/master/HW3)
 
+[HW4](https://github.com/linseanwin/learning-note/tree/master/HW4)
+
+[HW5](https://github.com/linseanwin/learning-note/tree/master/HW5)
+
+[HW6](https://github.com/linseanwin/learning-note/tree/master/HW6)
+
 # 課堂筆記
 [week 1](https://github.com/linseanwin/learning-note/tree/master/week%201)
 
