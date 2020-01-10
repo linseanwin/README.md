@@ -26,7 +26,7 @@
 ### week2(09月 16日 - 09月 22日)
    [Linked List.md](https://github.com/linseanwin/learning-note/blob/master/note/week2.md)
 ### week3(09月 23日 - 09月 29日)
-   [Stack & Queue.md](https://github.com/linseanwin/learning-note/blob/master/note/week3.md）
+   [Stack & Queue.md] (https://github.com/linseanwin/learning-note/blob/master/note/week3.md）
 ### week4(09月 30日 - 10月 6日)
    [Insertion Sort.md](https://github.com/linseanwin/learning-note/blob/master/note/week4.md)
 ### week5(10月 7日 - 10月 13日)
