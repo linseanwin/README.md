@@ -1,3 +1,3 @@
 # linked list
 
-![](https://open4tech.com/wp-content/uploads/2019/01/BFS-DFS.png)
+![](https://miro.medium.com/max/3640/1*nDwDbeHwOz_Kl4zRIMbe_A.png)
