@@ -44,7 +44,7 @@
 ### week11(11月 18日 - 11月 24日)
    [Hash Table](https://github.com/linseanwin/learning-note/blob/master/note/week11.md)
 ### week12(11月 25日 - 12月 1日)
-   [BFS & Pair Programming](https://github.com/linseanwin/learning-note/blob/master/note/week12.md)
+   [BFS](https://github.com/linseanwin/learning-note/blob/master/note/week12.md)
 ### week13(12月 2日 - 12月 8日)
    [DFS](https://github.com/linseanwin/learning-note/blob/master/note/week13.md)
 ### week14(12月 9日 - 12月 15日)
