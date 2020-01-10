@@ -1,6 +1,6 @@
 # binary search tree
 
-![](https://miro.medium.com/max/3640/1*nDwDbeHwOz_Kl4zRIMbe_A.png)
+![](https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png)
 
 ## insert 新增:
 
@@ -38,12 +38,10 @@
 
 越多子節點需要更多程式碼將此數刪除
 
-### 參考資料:
+# 參考資料:
 
 http://alrightchiu.github.io/SecondRound/binary-search-tree-searchsou-xun-zi-liao-insertxin-zeng-zi-liao.html
 
 http://alrightchiu.github.io/SecondRound/binary-search-tree-sortpai-xu-deleteshan-chu-zi-liao.html
 
-# 參考資料
 
-https://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html
